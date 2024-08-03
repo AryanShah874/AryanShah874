@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Shah</h1>
 <h3 align="center">A passionate Developer from Earth 🌏</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanshah874&label=Profile%20views&color=0e75b6&style=plastic" alt="aryanshah874" /> </p>
-
 - 🔭 I’m currently working on **E-Cycle Application**
 
 - 💬 Ask me about **react**
@@ -21,3 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanshah874&show_icons=true&locale=en&layout=compact" alt="aryanshah874" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanshah874&show_icons=true&locale=en" alt="aryanshah874" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanshah874&" alt="aryanshah874" /></p>
