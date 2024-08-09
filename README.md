@@ -7,9 +7,8 @@
 
 - 📫 How to reach me **aryanwork10@gmail.com**
 
-- ⚡ Fun fact **Everyone thinks I am funny.**
+- ⚡ Fun fact: **Everyone thinks I am funny.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
