@@ -21,4 +21,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanshah874&" alt="aryanshah874" /></p>
 
-![snake animation](https://github.com/AryanShah874/AryanShah874/blob/output/github-contribution-grid-snake2.svg)
+## Feeding...
+![Snake animation](https://raw.githubusercontent.com/AryanShah874/AryanShah874/output/github-contribution-grid-snake-dark.svg)
