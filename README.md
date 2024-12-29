@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aryan Shah</h1>
 <h3 align="center">A passionate Developer from Earth 🌏</h3>
 
+<div align="right">
+  <img src="./octocat.png" alt="Placeholder Image" width="150"/>
+</div>
+
 - 🔭 I’m currently looking for **Opportunities**
 
 - 💬 Ask me about **react**
