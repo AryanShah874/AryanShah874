@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aryan Shah</h1>
 <h3 align="center">A passionate Developer from Earth 🌏</h3>
 
-- 🔭 I’m currently working on **E-Cycle Application**
+- 🔭 I’m currently looking for **Opportunities**
 
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **aryanwork10@gmail.com**
 
-- ⚡ Fun fact: **Everyone thinks I am funny.**
+- ⚡ Fun fact: **I am Introvert**
 
 <p align="left">
 </p>
