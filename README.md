@@ -1,17 +1,22 @@
 <h1 align="center">Hi 👋, I'm Aryan Shah</h1>
 <h3 align="center">A passionate Developer from Earth 🌏</h3>
 
-<div align="right">
-  <img src="./octocat.png" alt="Placeholder Image" width="150"/>
+<div align="center">
+  <div align="left">
+    - 🔭 I’m currently looking for **Opportunities**
+    
+    - 💬 Ask me about **react**
+    
+    - 📫 How to reach me **aryanwork10@gmail.com**
+    
+    - ⚡ Fun fact: **I am Introvert**
+    
+  </div>
+  <div align="right">
+    <img src="./octocat.png" alt="Placeholder Image" width="300"/>
+  </div>
 </div>
 
-- 🔭 I’m currently looking for **Opportunities**
-
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **aryanwork10@gmail.com**
-
-- ⚡ Fun fact: **I am Introvert**
 
 <p align="left">
 </p>
@@ -25,5 +30,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanshah874&" alt="aryanshah874" /></p>
 
-## Feeding...
+## Learning...
 ![Snake animation](https://raw.githubusercontent.com/AryanShah874/AryanShah874/output/github-contribution-grid-snake-dark.svg)
