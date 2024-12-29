@@ -1,21 +1,18 @@
 <h1 align="center">Hi 👋, I'm Aryan Shah</h1>
 <h3 align="center">A passionate Developer from Earth 🌏</h3>
 
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td style="border: none; vertical-align: top;">
-      <ul style="list-style: none; padding-left: 0;">
-        <li>🔭 I’m currently looking for <b>Opportunities</b></li>
-        <li>💬 Ask me about <b>react</b></li>
-        <li>📫 How to reach me <b>aryanwork10@gmail.com</b></li>
-        <li>⚡ Fun fact: <b>I am Introvert</b></li>
-      </ul>
-    </td>
-    <td style="border: none; padding-left: 20px;">
-      <img src="./octocat.png" alt="Octocat" width="250"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <span align="left">
+    🔭 I’m currently looking for <b>Opportunities</b><br>
+    💬 Ask me about <b>react</b><br>
+    📫 How to reach me <b>aryanwork10@gmail.com</b><br>
+    ⚡ Fun fact: <b>I am Introvert</b>
+  </span>
+
+  <span align="right">
+    <img src="./octocat.png" alt="Octocat" width="350"/>
+  </span>
+</p>
 
 <p align="left">
 </p>
