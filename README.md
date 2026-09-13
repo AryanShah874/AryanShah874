@@ -1,32 +1,39 @@
-<h1 align="center">Hi, I’m Aryan Shah 👋</h1>
-<h3 align="center">Associate Software Engineer at E2E Networks</h3>
+# Hi, I'm Aryan Shah 👋
 
-<p align="center">
-  Building and maintaining scalable web applications for production environments.
-</p>
+Associate Software Engineer at **E2E Networks**, India's listed GPU cloud provider.
+I build the consoles people use to run cloud infrastructure — the screens behind
+launching a GPU instance, scaling it, storing things in it, and paying for it.
 
-<p align="center">
-  <a href="https://aryan-shah.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/4ryanshah/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://x.com/4ryanshah" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)" /></a>&nbsp;
-  <a href="mailto:aryanwork10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+**What I work on**
 
----
+- An **AI/GPU marketplace** — shipped both as its own product and as an embeddable
+  micro-frontend running inside another team's console, which meant designing the
+  contract between the two: environment injection, session propagation, routing.
+- **GPU compute surfaces** — virtual machines, auto scaling groups, load balancers,
+  notebooks, and the monitoring around them.
+- **Compute provisioning and authentication** on the main cloud console — the path a
+  customer walks from signing up to a running server.
 
-## 👨‍💻 Tech Stack
+A lot of my time goes into the parts nobody demos: test coverage, CI quality gates,
+error tracking, and not leaking user data into analytics.
 
-*   **Frontend:** React, Angular, JavaScript, TypeScript, Tailwind CSS, Material UI, Framer Motion
-*   **Backend:** Node.js, Express.js, REST APIs
-*   **Databases:** MongoDB, MySQL
-*   **Tools:** Git, GitHub, Linux, Postman
-*   **Exploring / Familiar With:** React Native, Firebase, Appwrite, C++, Java
+**Currently building**
 
----
+- **Personal Memory** — an offline-first iOS photo diary in Swift that resurfaces a
+  memory when you return to where it happened. No account, no server, no network. Ended
+  up hand-writing a ZIP reader on `libcompression`, because iOS ships no public unzip API
+  and a backup you can't restore isn't a backup.
+- **DeployBoard** — a deployment monitoring dashboard: GitHub webhooks into Express and
+  Postgres, streamed to a React client over Socket.io.
 
-## 🧠 Experience Highlights
+**Tools I reach for**
 
-*   **Production-Ready UI:** Building reusable, highly maintainable, and responsive React components.
-*   **API Integration:** Seamlessly bridging frontend applications with robust backend architectures.
-*   **Agile Collaboration:** Actively participating in code reviews, team-based development, and adhering to strict version control practices.
-*   **Clean Code Advocate:** Writing readable, scalable, and optimized code for high-traffic production environments.
+`TypeScript` `React` `Angular` `Swift` `Node.js` `Express`
+`PostgreSQL` `MySQL` `MongoDB` `SQLite`
+`Vitest` `Jest` `Playwright` `Testing Library`
+`Docker` `Kubernetes` `GitLab CI` `Sentry` `PostHog`
+
+[Portfolio](https://aryan-shah.vercel.app) · [LinkedIn](https://linkedin.com/in/4ryanshah) ·
+[X](https://x.com/4ryanshah) · [Email](mailto:aryanwork10@gmail.com)
+
+<sub>Cogito ergo sum</sub>
